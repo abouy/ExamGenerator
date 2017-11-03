@@ -1,2 +1,2 @@
 <?php
-fdsfsdf
+$_COOKIE
